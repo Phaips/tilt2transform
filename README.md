@@ -14,7 +14,7 @@ Compute a single rigid 3×4 [IMOD](https://bio3d.colorado.edu/imod/) transform t
 
 ```bash
 # Clone or download the script
-git clone https://github.com/yourrepo/aln2xf.git
+git clone https://github.com/Phaips/tilt2transform.git
 cd aln2xf
 
 # Install required Python packages
